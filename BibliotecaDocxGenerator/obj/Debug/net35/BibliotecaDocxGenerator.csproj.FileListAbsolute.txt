@@ -1,0 +1,10 @@
+F:\EXTRA\Word\DocxGenerator\BibliotecaDocxGenerator\bin\Debug\net35\BibliotecaDocxGenerator.dll
+F:\EXTRA\Word\DocxGenerator\BibliotecaDocxGenerator\bin\Debug\net35\BibliotecaDocxGenerator.pdb
+F:\EXTRA\Word\DocxGenerator\BibliotecaDocxGenerator\bin\Debug\net35\DocumentFormat.OpenXml.dll
+F:\EXTRA\Word\DocxGenerator\BibliotecaDocxGenerator\obj\Debug\net35\BibliotecaDocxGenerator.GeneratedMSBuildEditorConfig.editorconfig
+F:\EXTRA\Word\DocxGenerator\BibliotecaDocxGenerator\obj\Debug\net35\BibliotecaDocxGenerator.AssemblyInfoInputs.cache
+F:\EXTRA\Word\DocxGenerator\BibliotecaDocxGenerator\obj\Debug\net35\BibliotecaDocxGenerator.AssemblyInfo.cs
+F:\EXTRA\Word\DocxGenerator\BibliotecaDocxGenerator\obj\Debug\net35\BibliotecaDocxGenerator.csproj.CoreCompileInputs.cache
+F:\EXTRA\Word\DocxGenerator\BibliotecaDocxGenerator\obj\Debug\net35\BibliotecaDocxGenerator.csproj.CopyComplete
+F:\EXTRA\Word\DocxGenerator\BibliotecaDocxGenerator\obj\Debug\net35\BibliotecaDocxGenerator.dll
+F:\EXTRA\Word\DocxGenerator\BibliotecaDocxGenerator\obj\Debug\net35\BibliotecaDocxGenerator.pdb

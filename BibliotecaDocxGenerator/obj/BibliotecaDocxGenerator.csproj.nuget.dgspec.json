@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Projetos\\CSharp\\Word\\DocxGenerator\\BibliotecaDocxGenerator\\BibliotecaDocxGenerator.csproj": {}
+  },
+  "projects": {
+    "F:\\Projetos\\CSharp\\Word\\DocxGenerator\\BibliotecaDocxGenerator\\BibliotecaDocxGenerator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Projetos\\CSharp\\Word\\DocxGenerator\\BibliotecaDocxGenerator\\BibliotecaDocxGenerator.csproj",
+        "projectName": "BibliotecaDocxGenerator",
+        "projectPath": "F:\\Projetos\\CSharp\\Word\\DocxGenerator\\BibliotecaDocxGenerator\\BibliotecaDocxGenerator.csproj",
+        "packagesPath": "C:\\Users\\cauan\\.nuget\\packages\\",
+        "outputPath": "F:\\Projetos\\CSharp\\Word\\DocxGenerator\\BibliotecaDocxGenerator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cauan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net35"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "c:\\program files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net35": {
+            "targetAlias": "net35",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net35": {
+          "targetAlias": "net35",
+          "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.20.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\10.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
